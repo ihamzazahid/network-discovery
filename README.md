@@ -1,21 +1,13 @@
 # natlas
 
-natlas - Network Atlas  
-Michael Laforest `<mjlaforest` *at* `gmail` *dot* `com>`
+natlas - Network Mapping  
+Hamza zahid `<hamzazahid` *at* `nets-international` *dot* `com>`
 
 Automated discovery and diagram tools using SNMP, CDP, and LLDP.
 
  ```# ./natlas-cli.py diagram -r 10.75.0.1 -o .\network.svg```<br><br><br>*The above command will generate the diagram to the right.* | ![natlas-Diagram Main][diag-main]
 :--- | --- 
  
-# Support
-
-If you use any of these tools or find them useful please consider donating.  
-
-Donation Method | Address | QR Code
---- | --- | ---
-Bitcoin Cash (BCH) | 1HSycjR3LAZxuLG34aEBbQdUSayPkh8XsH | ![1HSycjR3LAZxuLG34aEBbQdUSayPkh8XsH](https://raw.github.com/MJL85/natlas/master/docs/donate/BCH.png "Bitcoin Cash (BCH)")
-Bitcoin (BTC) | 1HY3jPYVfE6YZbuYTYfMpazvSKRXjZDMbS  | ![1HY3jPYVfE6YZbuYTYfMpazvSKRXjZDMbS](https://raw.github.com/MJL85/natlas/master/docs/donate/BTC.png "Bitcoin (BTC)")
 
 # About
 
