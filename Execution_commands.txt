@@ -1,0 +1,4 @@
+python3 ./natlas-cli.py diagram -r 192.168.58.130 -o .\network.svg
+python3 -m pip install -r requirements.txt
+
+
